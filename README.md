@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ProrocX
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ProrocX snd I absolutely love Github 🧩
+- 👀 I’m interested in electric and elektronics
+- 🌱 I’m currently learning linux and thx to Github repository 🍀
+- 💞️ I’m looking to collaborate on testing software or ideas or solutions etc.
+- 📫 How to reach me ... ( sinuselektrikberlin@gmail.com )
 
 <!---
 ProrocX/ProrocX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
